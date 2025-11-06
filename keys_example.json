@@ -1,0 +1,17 @@
+{
+  "keys": {
+    "KEY-XXXX-XXXX-XXXX": {
+      "expires": "2027-12-31",
+      "max_uses": 1,
+      "user_id": 123456789012345678,
+      "username": "User Name"
+    },
+    "KEY-YYYY-YYYY-YYYY": {
+      "expires": "2028-01-01",
+      "max_uses": -1,
+      "user_id": 987654321098765432,
+      "username": "Another User"
+    }
+  }
+}
+

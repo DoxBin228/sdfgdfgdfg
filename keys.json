@@ -1,48 +1,34 @@
 {
   "keys": {
     "KEY-241O-KB8W-77BB": {
-      "user_id": 825331775857360906,
-      "username": ".maga228",
-      "hwid": "_unknown_unknown",
-      "steam_id64": "76561199237370036",
-      "uses": 13,
+      "expires": "2027-09-03",
       "max_uses": -1,
-      "created": "2025-11-06 20:55:25",
-      "created_by": 825331775857360906,
-      "expires": "2027-09-03"
+      "user_id": 825331775857360906,
+      "username": ".maga228"
     },
     "KEY-TTDW-WPKP-QGB9": {
-      "user_id": 791658779078819841,
-      "username": "chyzxias",
-      "hwid": null,
-      "steam_id64": null,
-      "uses": 0,
+      "expires": "2027-09-04",
       "max_uses": -1,
-      "created": "2025-11-07 00:13:13",
-      "created_by": 825331775857360906,
-      "expires": "2027-09-04"
+      "user_id": 791658779078819841,
+      "username": "chyzxias"
     },
     "KEY-H8BG-W0SG-F1PF": {
-      "user_id": 1409631829941551135,
-      "username": "podborodokhvh",
-      "hwid": null,
-      "steam_id64": null,
-      "uses": 0,
+      "expires": "2027-09-04",
       "max_uses": -1,
-      "created": "2025-11-07 00:13:25",
-      "created_by": 825331775857360906,
-      "expires": "2027-09-04"
+      "user_id": 1409631829941551135,
+      "username": "podborodokhvh"
     },
     "KEY-KE6Q-IYDP-2JQ5": {
-      "user_id": 856286084485218304,
-      "username": "newpapich",
-      "hwid": null,
-      "steam_id64": null,
-      "uses": 0,
+      "expires": "2027-09-04",
       "max_uses": -1,
-      "created": "2025-11-07 00:13:33",
-      "created_by": 825331775857360906,
-      "expires": "2027-09-04"
+      "user_id": 856286084485218304,
+      "username": "newpapich"
+    },
+    "KEY-IHX4-SDUH-UOO3": {
+      "expires": "2027-09-04",
+      "max_uses": -1,
+      "user_id": 1392955630310133893,
+      "username": "ifgodexistsitsfckingme"
     }
   }
 }
